@@ -1,0 +1,57 @@
+<item>
+<title> //////////// TV ABERTA ////////////</title>
+<link>ignorar</link>
+<thumbnail>https://ia601509.us.archive.org/29/items/tvvivo_20200109/TV%20VIVO.jpg</thumbnail>
+<fanart>https://ia601507.us.archive.org/11/items/tvvivo_20200109_2002/TV%20VIVO.jpg</fanart>
+<info>aqui você encontra canal de tv SBT SP,BAND HD,RECORD HD,TV CULTURA,GLOBO HD,TV BRASIL,</info>
+</item>
+<item>
+
+<item>
+<title>SBT HD</title>
+<link>http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w861636369.m3u8</link>
+<thumbnail>https://ia601502.us.archive.org/17/items/1200pxlogotipodosbt.svg/1200px-Logotipo_do_SBT.svg.png</thumbnail>
+<fanart>https://ia601507.us.archive.org/11/items/tvvivo_20200109_2002/TV%20VIVO.jpg</fanart>
+<info></info>
+</item>
+<item>
+<item>
+<title>BAND HD</title>
+<link>http://tvnanet.xyz:25461/hls/gabigol/cansado/19/7ffe8cf329b2d886a84d671562e3979b/19_101.ts</link>
+<thumbnail>https://i.imgur.com/xZ5Kd5j.png</thumbnail>
+<fanart>https://ia601507.us.archive.org/11/items/tvvivo_20200109_2002/TV%20VIVO.jpg</fanart>
+<info></info>
+</item>
+<item>
+<item>
+<title>RECORD HD</title>
+<link>http://tvnanet.xyz:25461/hls/gabigol/cansado/210/6fe0b852a74fd7f580d46eb7ad90c5b4/210_688.ts</link>
+<thumbnail>https://i.imgur.com/2xDbLma.jpg</thumbnail>
+<fanart>https://ia601507.us.archive.org/11/items/tvvivo_20200109_2002/TV%20VIVO.jpg</fanart>
+<info></info>
+</item>
+<item>
+<item>
+<title>GLOBO HD</title>
+<link>http://tvnanet.xyz:25461/live/gabigol/cansado/118.m3u8</link>
+<thumbnail>https://ia801501.us.archive.org/3/items/download_20200109_1939/download.jpg</thumbnail>
+<fanart>https://ia601507.us.archive.org/11/items/tvvivo_20200109_2002/TV%20VIVO.jpg</fanart>
+<info></info>
+</item>
+<item>
+<item>
+<title>TV CULTURA</title>
+<link>http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8</link>
+<thumbnail>https://cdn-radiotime-logos.tunein.com/s128243q.png</thumbnail>
+<fanart>https://ia601507.us.archive.org/11/items/tvvivo_20200109_2002/TV%20VIVO.jpg</fanart>
+<info></info>
+</item>
+<item>
+<item>
+<title>TV BRASIL</title>
+<link>http://ebctvbrasil-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvbrasil/chunklist_b1056768.m3u8</link>
+<thumbnail>https://cdn-radiotime-logos.tunein.com/s128243q.png</thumbnail>
+<fanart>https://ia601507.us.archive.org/11/items/tvvivo_20200109_2002/TV%20VIVO.jpg</fanart>
+<info></info>
+</item>
+<item>
