@@ -42,16 +42,9 @@
 <item>
 <title>TV CULTURA</title>
 <link>http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8</link>
-<thumbnail>https://cdn-radiotime-logos.tunein.com/s128243q.png</thumbnail>
+<thumbnail>https://ia601402.us.archive.org/29/items/cultura_202001/cultura.png</thumbnail>
 <fanart>https://ia601507.us.archive.org/11/items/tvvivo_20200109_2002/TV%20VIVO.jpg</fanart>
 <info></info>
 </item>
 <item>
-<item>
-<title>TV BRASIL</title>
-<link>http://ebctvbrasil-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvbrasil/chunklist_b1056768.m3u8</link>
-<thumbnail>https://cdn-radiotime-logos.tunein.com/s128243q.png</thumbnail>
-<fanart>https://ia601507.us.archive.org/11/items/tvvivo_20200109_2002/TV%20VIVO.jpg</fanart>
-<info></info>
-</item>
 <item>
