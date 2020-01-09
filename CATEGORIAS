@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR] [COLOR deeppink]|||[/COLOR] [COLOR darkorange]|||[/COLOR] [COLOR whiter]FILMES[/COLOR][COLOR deeppink]|||[/COLOR]</name>
+<name>FILMES</name>
 <thumbnail>https://ia601508.us.archive.org/2/items/iconesdefilmes/icones%20de%20filmes.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Infortecnologica/INFORTV/master/CATEGORIAS%20DOS%20FLIMES</externallink>
 <fanart>https://ia601500.us.archive.org/15/items/fundodefilmes/fundo%20de%20filmes.jpg</fanart>
@@ -17,7 +17,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR] [COLOR deeppink]|||[/COLOR] [COLOR darkorange]|||[/COLOR] [COLOR white] AS MELHORES SERIES HD [/COLOR] [COLOR deeppink]|||[/COLOR]</name>
+<name> AS MELHORES SERIES HD </name>
 <thumbnail>https://ia601505.us.archive.org/23/items/iconesdeseries/icones%20de%20series.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601504.us.archive.org/2/items/fundoseries/fundo%20series.jpeg</fanart>
@@ -32,7 +32,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR] [COLOR deeppink]|||[/COLOR] [COLOR darkorange]|||[/COLOR] [COLOR whiter]KIDS[/COLOR][COLOR deeppink]|||[/COLOR]</name>
+<name>KIDS</name>
 <thumbnail>https://ia601500.us.archive.org/5/items/mundodisney2/mundo%20disney%20%282%29.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801502.us.archive.org/20/items/201841_202001/201841.jpg</fanart>
@@ -46,7 +46,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR] [COLOR deeppink]|||[/COLOR] [COLOR darkorange]|||[/COLOR] [COLOR whiter]NOVELAS[/COLOR][COLOR deeppink]|||[/COLOR]</name>
+<name>NOVELAS</name>
 <thumbnail>https://ia601500.us.archive.org/1/items/iconenovelas/ICONE%20novelas.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601400.us.archive.org/29/items/fundodenovelas/FUNDO%20DE%20NOVELAS.jpg</fanart>
@@ -61,7 +61,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR] [COLOR deeppink]|||[/COLOR] [COLOR darkorange]|||[/COLOR] [COLOR whiter]ANIMES BR[/COLOR][COLOR deeppink]|||[/COLOR]</name>
+<name>ANIMES BR</name>
 <thumbnail>https://ia801503.us.archive.org/13/items/iconesanimes/Icones%20ANIMES.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801402.us.archive.org/6/items/fundodeanimes/fundo%20de%20animes.jpg</fanart>
@@ -76,7 +76,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR] [COLOR deeppink]|||[/COLOR] [COLOR darkorange]|||[/COLOR] [COLOR whiter]TV HD[/COLOR][COLOR deeppink]|||[/COLOR]</name>
+<name>TV HD</name>
 <thumbnail>https://ia601407.us.archive.org/35/items/iconetv/icone%20tv.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Infortecnologica/INFORTV/master/CATEGORIAS%20DE%20TVS</externallink>
 <fanart>https://ia601408.us.archive.org/25/items/tvvivo_202001/TV%20VIVO.jpg</fanart>
