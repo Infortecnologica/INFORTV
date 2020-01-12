@@ -17,7 +17,7 @@
 <item>
 <item>
 <title>Discovery Channel</title>
-<link>https://streamlivea.amilpublicidades.com/hls1/discovery.m3u8?wmsAuthSign=</link>
+<link>https://cdn.canais.link/hls1/discovery.m3u8?wmsAuthSign=</link>
 <thumbnail>https://ia601400.us.archive.org/27/items/discoverychannel_202001/Discovery-Channel.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
@@ -33,7 +33,7 @@
 <item>
 <item>
 <title>NAT/ GEOGRAPHY</title>
-<link>https://streamlivea.amilpublicidades.com/hls1/natgeo.m3u8?wmsAuthSign=</link>
+<link>https://cdn.canais.link/hls1/natgeo.m3u8?wmsAuthSign=</link>
 <thumbnail>https://ia601504.us.archive.org/29/items/download1_20200109_2312/download%20%281%29.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
