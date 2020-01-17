@@ -9,7 +9,7 @@
 
 <item>
 <title>SBT HD</title>
-<link>http://tvnanet.xyz:25461/live/gabigol2020/cansado/219.m3u8</link>
+<link>http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w861636369.m3u8</link>
 <thumbnail>https://ia601502.us.archive.org/17/items/1200pxlogotipodosbt.svg/1200px-Logotipo_do_SBT.svg.png</thumbnail>
 <fanart>https://ia601507.us.archive.org/11/items/tvvivo_20200109_2002/TV%20VIVO.jpg</fanart>
 <info></info>
@@ -17,7 +17,7 @@
 <item>
 <item>
 <title>BAND HD</title>
-<link>https://streamlivea.amilpublicidades.com/hls1/band.m3u8?wmsAuthSign=</link>
+<link>http://tvnanet.xyz:25461/live/palmeiras/semcopinha/19.m3u8</link>
 <thumbnail>https://i.imgur.com/xZ5Kd5j.png</thumbnail>
 <fanart>https://ia601507.us.archive.org/11/items/tvvivo_20200109_2002/TV%20VIVO.jpg</fanart>
 <info></info>
@@ -25,7 +25,7 @@
 <item>
 <item>
 <title>RECORD HD</title>
-<link>https://streamlivea.amilpublicidades.com/hls1/recordsp.m3u8?wmsAuthSign=</link>
+<link>https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>https://i.imgur.com/2xDbLma.jpg</thumbnail>
 <fanart>https://ia601507.us.archive.org/11/items/tvvivo_20200109_2002/TV%20VIVO.jpg</fanart>
 <info></info>
@@ -33,7 +33,7 @@
 <item>
 <item>
 <title>GLOBO HD</title>
-<link>https://streamlivea.amilpublicidades.com/hls1/bobosp.m3u8?wmsAuthSign=</link>
+<link>http://tvnanet.xyz:25461/live/palmeiras/semcopinha/118.m3u8</link>
 <thumbnail>https://ia801501.us.archive.org/3/items/download_20200109_1939/download.jpg</thumbnail>
 <fanart>https://ia601507.us.archive.org/11/items/tvvivo_20200109_2002/TV%20VIVO.jpg</fanart>
 <info></info>
@@ -48,3 +48,22 @@
 </item>
 <item>
 <item>
+<title>TV Brasil</title>
+<link>http://ebctvbrasil-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvbrasil/chunklist_b1056768.m3u8</link>
+<thumbnail>https://ia801501.us.archive.org/5/items/download5_20200117/download%20%285%29.jpg</thumbnail>
+<fanart>https://ia601507.us.archive.org/11/items/tvvivo_20200109_2002/TV%20VIVO.jpg</fanart>
+<info></info>
+</item>
+<item>
+<item>
+<item>
+<title>Rede Tv</title>
+<link>http://tvnanet.xyz:25461/live/palmeiras/semcopinha/213.m3u8</link>
+<thumbnail>https://ia601501.us.archive.org/27/items/download4_20200117_0948/download%20%284%29.jpg</thumbnail>
+<fanart>https://ia601507.us.archive.org/11/items/tvvivo_20200109_2002/TV%20VIVO.jpg</fanart>
+<info></info>
+</item>
+<item>
+<item>
+
+
