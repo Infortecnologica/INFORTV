@@ -1,0 +1,115 @@
+######################
+Lista de canais premium : Infor Tecnologica
+######################
+#EXTM3U
+
+ //////////// TV ABERTA ////////////
+#EXTINF:0 tvg-logo="https://ia601502.us.archive.org/17/items/1200pxlogotipodosbt.svg/1200px-Logotipo_do_SBT.svg.png"group-title="TV/ABERTA",SBT Sp
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w861636369.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xZ5Kd5j.png" group-title="",BAND HD
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/19.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/2xDbLma.jpg" group-title="",RECORD HD
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0tvg-logo="https://ia801501.us.archive.org/3/items/download_20200109_1939/download.jpg" group-title="", GLOBO HD
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/118.m3u8
+
+#EXTINF:0tvg-logo="" group-title="",TV CULTURA
+http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
+
+#EXTINF:0tvg-logo="" group-title="",TV Brasil
+http://ebctvbrasil-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvbrasil/chunklist_b1056768.m3u8
+
+#EXTINF:0tvg-logo="https://ia601501.us.archive.org/27/items/download4_20200117_0948/download%20%284%29.jpg" group-title="",Rede Tv
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/213.m3u8
+
+ ////////////  NOTÍCIAS ////////////
+ 
+#EXTINF:0 tvg-logo="https://archive.org/download/e3e879c57a76b70c1400f7d6cd9e/e3e879c57a76b70c1400f7d6cd9e.png" group-title="NOTÍCIAS",GLOBO NEWS 
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/107.m3u8
+
+#EXTINF:0 tvg-logo="https://archive.org/download/bandnews-tv-arte-1-jornal-da-band-990x556/bandnews-tv-arte-1-jornal-da-band-990x556.jpg" group-title="",Record News
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
+
+///////////// DOCUMENTARIOS /////////////
+
+#EXTINF:0 tvg-logo="https://ia601500.us.archive.org/10/items/animalplanet_202001/Animal_Planet.png"group-title="",ANIMAL PLANET
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/8.m3u8
+
+#EXTINF:0 tvg-logo="https://archive.org/download/discovery-channel-claro-tv/discovery-channel-claro-tv.jpg" group-title="",Discovery Channel
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/43.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",DISCOVERY CIVILIZATION
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/45.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",NAT/ GEOGRAPHY
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/174.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",HISTÓRY/CHANNEL
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/148.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",Discovery  theater
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/59.m3u8
+
+////////////// VARIEDDADES\\\\\\\\
+#EXTINF:0 tvg-logo="" group-title="",TBS
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/236.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",Curta
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/40.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",Syfy
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/235.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",Globosat
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/128.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",TLC
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/55.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",Viva
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/263.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",Fox Lite
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/81.m3u8
+
+////////////// INFANTIS\\\\\\\\
+#EXTINF:0 tvg-logo="https://ia601406.us.archive.org/6/items/download1_20200117/download%20%281%29.jpg" group-title="",BABY TV
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/14.m3u8
+
+#EXTINF:0 tvg-logo="https://ia601500.us.archive.org/35/items/discoverykids_202001/Discovery-Kids.jpg" group-title="",DISCOVERY KIDS
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/49.m3u8
+
+#EXTINF:0 tvg-logo="https://ia601509.us.archive.org/3/items/download1_20200117_0209/download%20%281%29.png" group-title="",BOOMERANG
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/26.m3u8
+
+#EXTINF:0 tvg-logo="https://ia601402.us.archive.org/12/items/download3_20200117/download%20%283%29.jpg" group-title="",TOONCAST
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/255.m3u8
+
+#EXTINF:0 tvg-logo="https://ia601504.us.archive.org/1/items/download2_20200117/download%20%282%29.jpg" group-title="",NICK JR
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/176.m3u8
+
+#EXTINF:0 tvg-logo="https://ia801409.us.archive.org/0/items/download2_20200117_0911/download%20%282%29.png" group-title="",NICKELODEN
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/178.m3u8
+
+#EXTINF:0 tvg-logo="https://ia601500.us.archive.org/35/items/discoverykids_202001/Discovery-Kids.jpg" group-title="",NatGeo Kids
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/170.m3u8
+
+#EXTINF:0 tvg-logo="https://ia601404.us.archive.org/31/items/download4_20200117/download%20%284%29.png" group-title="",DISNEY XD
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/65.m3u8
+
+#EXTINF:0 tvg-logo="https://ia601401.us.archive.org/24/items/1200pxdisneylogo.svg/1200px-Disney%2B_logo.svg.png" group-title="",DISNEY
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/61.m3u8
+
+#EXTINF:0 tvg-logo="https://ia801506.us.archive.org/20/items/download_20200117_0157/download.jpg" group-title="",CARTOON NETWORK
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/29.m3u8
+
+
+
+
+
+
+
+
