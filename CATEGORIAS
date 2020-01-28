@@ -5,7 +5,7 @@
 <name>FILMES</name>
 <thumbnail>https://ia601508.us.archive.org/2/items/iconesdefilmes/icones%20de%20filmes.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Infortecnologica/INFORTV/master/CATEGORIAS%20DOS%20FLIMES</externallink>
-<fanart>https://ia601500.us.archive.org/15/items/fundodefilmes/fundo%20de%20filmes.jpg</fanart>
+<fanart></fanart>
 <info>
 
 
@@ -17,7 +17,7 @@
 
 <channels>
 <channel>
-<name> AS MELHORES SERIES HD </name>
+<name>AS MELHORES SERIES HD </name>
 <thumbnail>https://ia601505.us.archive.org/23/items/iconesdeseries/icones%20de%20series.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601504.us.archive.org/2/items/fundoseries/fundo%20series.jpeg</fanart>
