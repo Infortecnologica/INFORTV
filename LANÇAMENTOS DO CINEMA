@@ -189,7 +189,7 @@
 
 <item>
 <title>Dragon Ball Super Broly (dublado) - 2019</title>
-<link></link>
+<link></link<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1zHtomnvtZa0Pl02pe9JQCdbHTo2Fe_6c</link>
 <thumbnail>https://ia601407.us.archive.org/21/items/dragonballsuperbroly_202001/Dragon%20Ball%20Super%20Broly.png</thumbnail>
 <fanart>https://ia801504.us.archive.org/2/items/1002996_202001/1002996.jpg</fanart>
 <info></info>
@@ -198,7 +198,7 @@
 
 <item>
 <title>Homem-aranha no Aranhaverso (dublado) - 2019</title>
-<link></link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1b6GaMzRnitV9sfdOR67t4x8HoOFyke0r/view</link>
 <thumbnail>https://archive.org/details/homemaranhanoaranhaverso_202001</thumbnail>
 <fanart>https://ia801504.us.archive.org/2/items/1002996_202001/1002996.jpg</fanart>
 <info></info>
@@ -243,7 +243,7 @@
 
 <item>
 <title>Shazam (dublado) - 2019</title>
-<link></link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ekjT5fTAoT8PhFd-2e_NzAm1ixgz_m_z/view</link>
 <thumbnail>https://ia601409.us.archive.org/8/items/shazam_202001/Shazam.png</thumbnail>
 <fanart>https://ia801504.us.archive.org/2/items/1002996_202001/1002996.jpg</fanart>
 <info></info>
@@ -270,7 +270,7 @@
 
 <item>
 <title>John Wick: Chapter 3 (dublado) - 2019</title>
-<link></link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1g_CsNRpHbHxlnBkcv7ZvHjLjxL02PaYk/view</link>
 <thumbnail>https://ia601504.us.archive.org/7/items/jonh3/jonh%203.jpg</thumbnail>
 <fanart>https://ia801504.us.archive.org/2/items/1002996_202001/1002996.jpg</fanart>
 <info></info>
@@ -298,16 +298,7 @@
 <item>
 <title>Rambo Ate o Fim (dublado) - 2019</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XjJaAKHY31gC80zS0Zpp4ZoXatSzcl0H/view</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-<item>
-
-<item>
-<title>Homem Aranha no Aranhaverso (dublado) -2019</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1b6GaMzRnitV9sfdOR67t4x8HoOFyke0r/view</link>
-<thumbnail></thumbnail>
+<thumbnail>https://ia601404.us.archive.org/13/items/rambo_202001/rambo.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -316,7 +307,7 @@
 <item>
 <title>Ip Man 4 The Finale (dublado)</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_h1xAllpxOY4DrSx0DRjDiO5admjViS5/view</link>
-<thumbnail></thumbnail>
+<thumbnail>https://ia601402.us.archive.org/19/items/ipman4thefinale/Ip%20Man%204%20The%20Finale.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -325,16 +316,7 @@
 <item>
 <title>Homem Aranha Longe de Casa (dublado) -2019</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zRnfP6nEiPvKOBiN4vdR9q24RSV6AAhu/view</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-<item>
-
-<item>
-<title>Dragon Ball Super Broly (dublado) -2019</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zHtomnvtZa0Pl02pe9JQCdbHTo2Fe_6c/view</link>
-<thumbnail></thumbnail>
+<thumbnail>https://ia601401.us.archive.org/3/items/download1_20200129_0853/download%20%281%29.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -343,7 +325,7 @@
 <item>
 <title>Creed 2 (dublado) -2019</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aaSzcK8AOF_Dju4Vkex9XJTn6tpD0naI/view</link>
-<thumbnail></thumbnail>
+<thumbnail>https://ia601400.us.archive.org/25/items/download2_20200129/download%20%282%29.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -352,7 +334,7 @@
 <item>
 <title>Bad Boys For Life</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xo2JekMvrKXVQBPI_5iBc5HW5x4-BGlP/view</link>
-<thumbnail></thumbnail>
+<thumbnail>https://ia601508.us.archive.org/23/items/download3_20200129/download%20%283%29.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
